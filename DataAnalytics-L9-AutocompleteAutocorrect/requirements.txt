@@ -1,0 +1,8 @@
+numpy
+pandas
+nltk
+pyspellchecker
+matplotlib
+seaborn
+scikit-learn
+jupyter
